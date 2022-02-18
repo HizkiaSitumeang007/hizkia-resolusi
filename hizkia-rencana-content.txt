@@ -3,9 +3,11 @@ RENCANA KONTEN HIZKIA
 -Javascript
  *ES6
  *Framework Javascript
-  ^ Angular
+  ^ Vue
   ^ React
+-Struktur Data Besar
 -PHP Frameworks
- ^ Laravel
+ ^ Laravet
 -Interview
 -Vlogs
+-Python
