@@ -1,6 +1,0 @@
-RENCANA KONTEN HIZKIA
-
--Javascript
--PHP Frameworks
--Interview
--Vlogs
