@@ -5,6 +5,7 @@ RENCANA KONTEN HIZKIA
  *Framework Javascript
   ^ Vue
   ^ React
+  ^ Angular
 -Struktur Data Besar
 -PHP Frameworks
  ^ Laravet
